@@ -3,7 +3,7 @@
  包含常见的分类网络结构和预训练模型
  训练代码为`imagenet_train.py`
 
-
+ 注：`train.py`为一个通用可参考的pytorch下的训练代码
 
 
 
